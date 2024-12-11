@@ -2,11 +2,6 @@
 
 Link prediction on academic paper citation graphs.
 
-<p align="center">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Topological_Ordering.svg" width="500">
-	<em>source: Wikimedia </em>
-</p>
-
 ## Usage
 
 ### Requirements
